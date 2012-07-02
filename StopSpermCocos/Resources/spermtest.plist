@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		
+		<key>cut001.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{150, 186}, {56, 158}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {56, 158}}</string>
+			<key>sourceSize</key>
+			<string>{56, 158}</string>
+		</dict>
+		
+		<key>cut002.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{227, 187}, {69, 158}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {69, 158}}</string>
+			<key>sourceSize</key>
+			<string>{69, 158}</string>
+		</dict>
+		
+		<key>cut003.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{323, 178}, {74, 161}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {74, 161}}</string>
+			<key>sourceSize</key>
+			<string>{74, 161}</string>
+		</dict>
+		
+		<key>cut004.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{404, 184}, {80, 167}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {80, 167}}</string>
+			<key>sourceSize</key>
+			<string>{80, 167}</string>
+		</dict>
+		
+		<key>cut005.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{6, 383}, {91, 173}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {91, 173}}</string>
+			<key>sourceSize</key>
+			<string>{91, 173}</string>
+		</dict>
+		
+		<key>cut006.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{98, 376}, {105, 185}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {105, 185}}</string>
+			<key>sourceSize</key>
+			<string>{105, 185}</string>
+		</dict>
+		
+		<key>cut007.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{213, 372}, {105, 205}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {105, 205}}</string>
+			<key>sourceSize</key>
+			<string>{105, 205}</string>
+		</dict>
+		
+		<key>cut008.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{341, 369}, {67, 239}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>sourceColorRect</key>
+			<string>{{1, 1}, {65, 237}}</string>
+			<key>sourceSize</key>
+			<string>{67, 239}</string>
+		</dict>
+		
+		<key>cut009.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{433, 368}, {60, 267}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>sourceColorRect</key>
+			<string>{{2, 0}, {58, 267}}</string>
+			<key>sourceSize</key>
+			<string>{60, 267}</string>
+		</dict>
+		
+		<key>sperm1.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{0, 0}, {64, 174}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 2}, {64, 172}}</string>
+			<key>sourceSize</key>
+			<string>{64, 174}</string>
+		</dict>
+		
+		<key>sperm10.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{73, 182}, {54, 166}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {54, 112}}</string>
+			<key>sourceSize</key>
+			<string>{54, 166}</string>
+		</dict>
+		
+		<key>sperm2.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{64, 2}, {64, 174}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 2}, {64, 144}}</string>
+			<key>sourceSize</key>
+			<string>{64, 174}</string>
+		</dict>
+		
+		<key>sperm3.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{130, 2}, {64, 174}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 2}, {64, 170}}</string>
+			<key>sourceSize</key>
+			<string>{64, 174}</string>
+		</dict>
+		
+		<key>sperm4.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{193, 1}, {64, 174}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 2}, {64, 172}}</string>
+			<key>sourceSize</key>
+			<string>{64, 174}</string>
+		</dict>
+		
+		<key>sperm5.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{259, 2}, {64, 174}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 2}, {64, 170}}</string>
+			<key>sourceSize</key>
+			<string>{64, 174}</string>
+		</dict>
+		
+		<key>sperm6.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{329, 4}, {54, 166}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {54, 112}}</string>
+			<key>sourceSize</key>
+			<string>{54, 166}</string>
+		</dict>
+		
+		<key>sperm7.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{454, 4}, {54, 166}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {54, 112}}</string>
+			<key>sourceSize</key>
+			<string>{54, 166}</string>
+		</dict>
+		
+		<key>sperm8.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{395, 6}, {54, 166}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {54, 112}}</string>
+			<key>sourceSize</key>
+			<string>{54, 166}</string>
+		</dict>
+		
+		<key>sperm9.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{5, 179}, {54, 166}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {54, 112}}</string>
+			<key>sourceSize</key>
+			<string>{54, 166}</string>
+		</dict>
+		
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>format</key>
+		<integer>1</integer>
+		<key>size</key>
+		<string>{512, 1024}</string>
+	</dict>
+</dict>
+</plist>
